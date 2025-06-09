@@ -4,7 +4,7 @@ This project is a real-time **serverless order tracking system** built using **A
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **AWS Lambda** – serverless functions to handle order events and stream processing  
 - **Amazon API Gateway** – REST endpoint to receive new orders  
@@ -18,7 +18,7 @@ This project is a real-time **serverless order tracking system** built using **A
 
 ---
 
-## 🧠 Features
+##  Features
 
 - Create new orders using a REST API
 - Store orders in DynamoDB with timestamp
